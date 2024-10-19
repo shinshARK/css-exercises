@@ -20,6 +20,28 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
+  padding: 12px;
+  gap: 12px;
+}
+
+.modal-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 12px;
+  
+}
+
+.header {
+  max-height: 25px;
+  display: flex;
+  font-weight: bold;
+  align-items: center;
+}
+
+.header > .close-button {
+  margin-left: auto;
 }
 
 .icon {
