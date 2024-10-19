@@ -1,0 +1,3 @@
+[submodule "foundations/cascade/foundations/cascade/odin-recipes"]
+	path = foundations/cascade/foundations/cascade/odin-recipes
+	url = git@github.com:shinshARK/odin-recipes.git
